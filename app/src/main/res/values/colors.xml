@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="saGreen">#1E9618</color>
+    <color name="saGreenDark">#006700</color>
+    <color name="saGreenLight">#5CC88B</color>
+    <color name="saPurple">#921896</color>
+    <color name="saPurpleDark">#600067</color>
+    <color name="saPurpleLight">#C551C7</color>
+</resources>
